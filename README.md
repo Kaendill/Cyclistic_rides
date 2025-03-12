@@ -108,6 +108,7 @@ ORDER BY ride_count DESC
 This visual shows the count by percentage of rides by different user types
 
 ![Count and Percentage of rides by users](Cyclistic_data/tableau_viz/rides_percent.png)
+
 *Pie chart showing percentages of users' rides*
 
 
@@ -137,6 +138,7 @@ ORDER BY trip_month
 This viz shows the Monthly rides trends for different users
 
 ![Monthly Rides Trends](Cyclistic_data/tableau_viz/monthly_trends.png)
+
 *Line graph showing users' monthly ride trend*
 
 
@@ -174,6 +176,7 @@ This visual shows the Peak days of the week by users' rides
 
 
 ![Weekly rides trends](Cyclistic_data/tableau_viz/Busiest_days_of_the_Week.png)
+
 *Bar chart showing busiest days of the week*
 
 #### Insights
@@ -204,6 +207,7 @@ ORDER BY hour_of_day
 This viz shows peak ride hours for users in 24 hours
 
 ![peak hours of the day](Cyclistic_data/tableau_viz/peak_rides_hour.png)
+
 *stacked bar charts displaying peak ride hours in a day*
 
 #### Insights
@@ -243,6 +247,7 @@ LIMIT 10
 This visualization shows the top 10 start stations for each ride trips
 
 ![Top 10 start stations](Cyclistic_data/tableau_viz/top_start_stations.png)
+
 *symbol map showing 9 stations, with 1 farther downwards*
 
 #### Insights
@@ -274,6 +279,7 @@ ORDER BY  rideable_type
 This visualization shows the different rideable types for different users
 
 ![Rideable types by users](Cyclistic_data/tableau_viz/Rideable_types.png)
+
 *Side-by-side bar chart showing rideable types for user*
 
 #### Insights
